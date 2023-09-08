@@ -1,13 +1,13 @@
-# [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
+# [GitHub Stats Visualization](https://github.com/getlost01/github-stats.github.io)
 
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
-<a href="https://github.com/jstrieb/github-stats">
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+<a href="https://github.com/getlost01/github-stats.github.io">
+<img src="https://github.com/getlost01/github-stats.github.io/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/getlost01/github-stats.github.io/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/getlost01/github-stats.github.io/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/getlost01/github-stats.github.io/blob/master/generated/languages.svg#gh-light-mode-only" />
 </a>
 
 Generate visualizations of GitHub user and repository statistics with GitHub
@@ -86,7 +86,7 @@ For more information on inaccuracies, see issue
 5. It is possible to change the type of statistics reported by adding other
    repository secrets. 
    - To ignore certain repos, add them (in owner/name format e.g.,
-     `jstrieb/github-stats`) separated by commas to a new secret—created as
+     `getlost01/github-stats.github.io`) separated by commas to a new secret—created as
      before—called `EXCLUDED`.
    - To ignore certain languages, add them (separated by commas) to a new
      secret called `EXCLUDED_LANGS`. For example, to exclude HTML and TeX you
